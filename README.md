@@ -37,7 +37,7 @@ The program writes the ASCII codes for values **32–126** to a file, then reads
 2. Compile the program:
 
    ```bash
-   gcc lab13.c -o prog
+   gcc c-ascii.c -o prog
    ```
 
 3. Run the program with a filename as argument:
